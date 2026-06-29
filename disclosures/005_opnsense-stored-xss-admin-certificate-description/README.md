@@ -1,5 +1,6 @@
 # Stored XSS in Administration Settings via Certificate Description
 
+- Published: `TBA` (Reported: 25.06.2026)
 - Severity: Moderate (5.2) - `CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:U/C:H/I:L/A:N`
 - Software: [OPNsense](https://github.com/OPNsense/core)
 - Version: `<26.1.10`

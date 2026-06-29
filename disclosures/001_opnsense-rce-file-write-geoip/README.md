@@ -1,5 +1,6 @@
 # Root RCE via Arbitrary File Write in GeoIP Alias Importer
 
+- Published: `TBA` (Reported: 23.06.2026)
 - Severity: Critical (9.9) - `CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H`
 - Software: [OPNsense](https://github.com/OPNsense/core)
 - Version: `<26.1.10`

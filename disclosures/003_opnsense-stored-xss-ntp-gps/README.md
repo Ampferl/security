@@ -1,5 +1,6 @@
 # Stored XSS in Services: NTP GPS
 
+- Published: `TBA` (Reported: 24.06.2026)
 - Severity: Moderate (5.4) - `CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N`
 - Software: [OPNsense](https://github.com/OPNsense/core)
 - Version: `<26.1.10`

@@ -1,5 +1,6 @@
 # `TITLE`
 
+- Published: `DATE` (Reported: `DATE`)
 - Severity: `SEVERITY` (`CVSS`) - `CVSS:3.1/AV:_/AC:_/PR:_/UI:_/S:_/C:_/I:_/A:_`
 - Software: `SOFTWARE_NAME`
 - Version: `SOFTWARE_VERSION`
