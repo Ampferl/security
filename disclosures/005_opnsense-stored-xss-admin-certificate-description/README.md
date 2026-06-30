@@ -5,7 +5,7 @@
 - Software: [OPNsense](https://github.com/OPNsense/core)
 - Version: `<26.1.10`
 - References:
-- - `TBA`
+- - [CVE-2026-58394](https://nvd.nist.gov/vuln/detail/CVE-2026-58394)
 - - [GHSA-8pgr-x852-qx4j](https://github.com/opnsense/core/security/advisories/GHSA-8pgr-x852-qx4j)
 - - [Blog Post](https://hackerask.com/posts/opnsense/)
 
