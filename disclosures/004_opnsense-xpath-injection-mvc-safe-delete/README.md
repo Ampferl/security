@@ -1,6 +1,6 @@
 # XPath injection in MVC safe-delete
 
-- Published: `TBA` (Reported: 25.06.2026)
+- Published: 01.07.2026 (Reported: 25.06.2026)
 - Severity: Moderate (4.3) - `CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N`
 - Software: [OPNsense](https://github.com/OPNsense/core)
 - Version: `<26.1.10`
